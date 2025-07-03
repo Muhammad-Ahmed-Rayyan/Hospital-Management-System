@@ -13,7 +13,7 @@
 Built with the tools and technologies:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![Console](https://img.shields.io/badge/Console-Application-lightgrey)
+![Console](https://img.shields.io/badge/Console-Application-black)
 ![LinkedList](https://img.shields.io/badge/Linked%20List-Data%20Structure-brightgreen)
 
 </div>
@@ -64,4 +64,6 @@ g++ "Hospital Management System.c++" -o hospital
 - Console graphics with windows.h for improved interface.
 - Licensed under MIT.
 
+  [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+  
 ---
