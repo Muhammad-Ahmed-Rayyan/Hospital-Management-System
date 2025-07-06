@@ -68,3 +68,9 @@ g++ "Hospital Management System.c++" -o hospital
   [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
   
 ---
+
+<div align="center">
+
+⭐ Love this project? Show your support by giving it a star on GitHub!
+
+</div>
