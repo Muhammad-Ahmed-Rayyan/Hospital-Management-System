@@ -5,7 +5,7 @@
 *Efficient console-based system to manage hospital patients' records using linked lists in C++.*
 
 ![last commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/Hospital-Management-System)
-![cpp](https://img.shields.io/badge/C++-100%25-darkpink)
+![cpp](https://img.shields.io/badge/C++-100%25-blue)
 ![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/Hospital-Management-System)
 
 <br>
